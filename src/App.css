@@ -1,0 +1,18 @@
+.App-header {
+  color: white;
+  background-color: rgba(21, 114, 161, 0.8);
+  display: block;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 100px;
+  text-align: center;
+  padding: 50px 50px 25px 50px;
+}
+.Sub-heading {
+  color: white;
+  background-color: rgba(21, 114, 161, 0.8);
+  font-family: 'Noto Serif Display', serif;
+  font-size: 25px;
+  text-align: center;
+  padding: 0px 50px 50px 50px;
+
+}
