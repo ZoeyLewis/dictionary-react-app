@@ -1,0 +1,10 @@
+.SearchForm {
+   text-align: center;
+   margin: 50px;
+}
+
+button {
+    background-color: #448EB4;
+    border-radius: 3px;
+    color: white
+}
