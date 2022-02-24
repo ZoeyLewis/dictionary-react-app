@@ -5,6 +5,13 @@
 
 button {
     background-color: #448EB4;
+    border-color: #9AD0EC;
     border-radius: 3px;
-    color: white
+    color: white;
+    transition: ease-in-out 5ms;
+}
+button:hover{
+background-color: #9AD0EC;
+border-color: #448EB4;
+box-shadow: rgba(21, 114, 161, 0.3) 0px 7px 29px 0px;
 }

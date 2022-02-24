@@ -12,7 +12,7 @@ function App() {
       <h2 className="Sub-heading">Discover something new.</h2>
       </header>
       <Dictionary/>
-      <footer>Open-sourced code from GitHub, coded by Zoey Lewis</footer>
+      <footer>Open-sourced code from <a href="https://github.com/ZoeyLewis/dictionary-react-app" target="/">GitHub</a>, coded by <a href="https://github.com/ZoeyLewis" target="/">Zoey Lewis</a></footer>
     </div>
   );
 }
