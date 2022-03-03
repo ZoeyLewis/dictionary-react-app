@@ -1,0 +1,9 @@
+.Phonetic a{
+    color: #E3BEC6;
+    font-family: 'Merriweather Sans', sans-serif;
+    transition: ease-in-out 5ms;
+}
+
+.Phonetic a:hover{
+    color:#EFDAD7;
+}

@@ -1,4 +1,5 @@
 .SearchForm {
+   font-family: 'Noto Serif Display', serif;
    text-align: center;
    margin: 50px;
 }
@@ -8,6 +9,7 @@ button {
     border-color: #9AD0EC;
     border-radius: 3px;
     color: white;
+    font-family: 'Merriweather Sans', sans-serif;
     transition: ease-in-out 5ms;
 }
 button:hover{
