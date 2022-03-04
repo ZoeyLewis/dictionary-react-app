@@ -1,9 +1,24 @@
+.Phonetic{
+    line-height: 50px;
+}
+
 .Phonetic a{
-    color: #E3BEC6;
+    border: solid #E3BEC6;
+    border-radius: 20px;
+    background-color: #E3BEC6;
+    color: #FFFFFF;
     font-family: 'Merriweather Sans', sans-serif;
-    transition: ease-in-out 5ms;
+    padding: 10px;
+    text-decoration: none;
+    transition: all ease-in-out 5ms;
 }
 
 .Phonetic a:hover{
-    color:#EFDAD7;
+    background-color: #FFFFFF;
+    color:#E3BEC6;
+}
+
+.phoneticText{
+    display: inline-block;
+    margin-left: 15px;
 }

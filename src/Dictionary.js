@@ -34,7 +34,7 @@ if (loaded){
     return (
         <div>
     <form className="SearchForm" onSubmit={handleSubmit}>
-      <input type="search" placeholder="Search for a word" onChange={handleWord}/>
+      <input type="search" placeholder={props.defaultWord} onChange={handleWord}/>
     <button type="submit">Submit</button>
   </form>
   <Results results={results}/>
